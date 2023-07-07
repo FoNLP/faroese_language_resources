@@ -11,7 +11,7 @@
 | Sprotin translations           | Parallel        |      | https://raw.githubusercontent.com/Sprotin/translations/main/sentences_en-fo.strict.csv                                       |
 | FoBERT                         | lm              |      | https://huggingface.co/vesteinn/FoBERT                                                                                       |
 | ScandiBERT                     | lm              |      | https://huggingface.co/vesteinn/ScandiBERT                                                                                   |
-|                                |                 |      |                                                                                                                              |
+| Ranvursson                     | Audtio                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
 |                                |                 |      |                                                                                                                              |
 |                                |                 |      |                                                                                                                              |
 |                                |                 |      |                                                                                                                              |
