@@ -11,7 +11,7 @@
 | Sprotin translations           | parallel        |      | https://raw.githubusercontent.com/Sprotin/translations/main/sentences_en-fo.strict.csv                                       |
 | FoBERT                         | lm              |      | https://huggingface.co/vesteinn/FoBERT                                                                                       |
 | ScandiBERT                     | lm              |      | https://huggingface.co/vesteinn/ScandiBERT                                                                                   |
-| Ranvursson                     | audio                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
+| Ranvursson                     | audio+transcripts                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
 | Føroyski bendingargrunnurin    | lemma list                |      | https://bendingar.fo/tilfar/                                                                                                                             |
 |                                |                 |      |                                                                                                                              |
 |                                |                 |      |                                                                                                                              |
