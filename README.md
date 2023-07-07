@@ -1,0 +1,1 @@
+# faroese_language_resources
