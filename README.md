@@ -8,11 +8,11 @@
 | FoNE                           | NER             |      | https://huggingface.co/datasets/vesteinn/sosialurin-faroese-ner                                                              |
 | Fo-STS                         | STS             |      | https://huggingface.co/datasets/vesteinn/faroese-sts                                                                         |
 | FC3                            | plain text      |      | https://huggingface.co/datasets/vesteinn/FC3                                                                                 |
-| Sprotin translations           | Parallel        |      | https://raw.githubusercontent.com/Sprotin/translations/main/sentences_en-fo.strict.csv                                       |
+| Sprotin translations           | parallel        |      | https://raw.githubusercontent.com/Sprotin/translations/main/sentences_en-fo.strict.csv                                       |
 | FoBERT                         | lm              |      | https://huggingface.co/vesteinn/FoBERT                                                                                       |
 | ScandiBERT                     | lm              |      | https://huggingface.co/vesteinn/ScandiBERT                                                                                   |
-| Ranvursson                     | Audio                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
-|                                |                 |      |                                                                                                                              |
+| Ranvursson                     | audio                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
+| Føroyski bendingargrunnurin    | lemma list                |      | https://bendingar.fo/tilfar/                                                                                                                             |
 |                                |                 |      |                                                                                                                              |
 |                                |                 |      |                                                                                                                              |
 |                                |                 |      |                                                                                                                              |
