@@ -13,6 +13,6 @@
 | ScandiBERT                     | lm              |      | https://huggingface.co/vesteinn/ScandiBERT                                                                                   |
 | Ranvursson                     | audio+transcripts                 |      | https://huggingface.co/datasets/carlosdanielhernandezmena/ravnursson_asr                                                                                                                             |
 | Føroyski bendingargrunnurin    | lemma list                |      | https://bendingar.fo/tilfar/                                                                                                                             |
-|                                |                 |      |                                                                                                                              |
-|                                |                 |      |                                                                                                                              |
+| itu_faroese_danish |    parallel             |   |   https://huggingface.co/datasets/strombergnlp/itu_faroese_danish                                                                                                                           |
+| Tatoeba                               |   parallel              |      |      https://tatoeba.org/en/sentences/show_all_in/fao/none                                                                                                                        |
 |                                |                 |      |                                                                                                                              |
