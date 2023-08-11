@@ -15,4 +15,4 @@
 | Føroyski bendingargrunnurin    | lemma list                |      | https://bendingar.fo/tilfar/                                                                                                                             |
 | itu_faroese_danish |    parallel             |   |   https://huggingface.co/datasets/strombergnlp/itu_faroese_danish                                                                                                                           |
 | Tatoeba                               |   parallel              |      |      https://tatoeba.org/en/sentences/show_all_in/fao/none                                                                                                                        |
-|                                |                 |      |                                                                                                                              |
+|  FLORES-200                           |    parallel            |      |      https://github.com/facebookresearch/flores/tree/main/flores200                                                                                                                        |
