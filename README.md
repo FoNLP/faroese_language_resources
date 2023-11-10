@@ -18,4 +18,3 @@
 |  FLORES-200  |   parallel       | https://github.com/facebookresearch/flores/tree/main/flores200                                                                                                                    |
 | Universal Dependency parsing    | treebank, POS | https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5150                                                              |
 | Wikipedia    | plain text | https://huggingface.co/datasets/wikipedia                                                             |
-| Wikipedia    | plain text | https://huggingface.co/datasets/wikipedia                                                             |
