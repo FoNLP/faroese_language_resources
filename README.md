@@ -27,3 +27,4 @@
 | Toxicity200  | Toxicity list    | https://github.com/facebookresearch/flores/tree/main/toxicity |
 | BLARK 1.0    | BLARK            | https://www.openslr.org/resources/125/ |
 | MMS-TTS-FAO  | TTS              | https://huggingface.co/facebook/mms-tts-fao |
+| Faroese Spell Checker Sourcecodes | Proofing, analyzers | https://github.com/giellalt/lang-fao |
