@@ -28,3 +28,4 @@
 | BLARK 1.0    | BLARK            | https://www.openslr.org/resources/125/ |
 | MMS-TTS-FAO  | TTS              | https://huggingface.co/facebook/mms-tts-fao |
 | Faroese Spell Checker Sourcecodes | Proofing, analyzers | https://github.com/giellalt/lang-fao |
+| Nordic LangID  | Language ID    | https://huggingface.co/datasets/strombergnlp/nordic_langid  |
