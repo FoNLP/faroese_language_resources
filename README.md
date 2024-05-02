@@ -35,3 +35,4 @@
 | Faroese Parallel Bible | parallel  | https://huggingface.co/datasets/vesteinn/faroese-parallel-bible  |
 | GPT-4 for Sentiment Analysis for Faroese | Sentiment Analysis | https://huggingface.co/datasets/hafsteinn/faroese_sentiment_analysis |
 | New Testament: Audio and Text | ASR, TTS | https://mtd.setur.fo/resource/new-testament-audio-and-text/ |
+| GPT-SW3 LoRA Faroese | Text Generation, Translation | https://huggingface.co/barbaroo/gptsw3_lora_fo_40b |
