@@ -32,10 +32,15 @@
 | STT NeMo 100h  | Acoustic Model  | https://huggingface.co/carlosdanielhernandezmena/stt_fo_quartznet15x5_sp_ep163_100h |
 | STT Wav2Vec2 STT 100h  |  Acoustic Model  |  https://huggingface.co/carlosdanielhernandezmena/wav2vec2-large-xlsr-53-faroese-100h  |
 | STT Whisper 100h  | Acoustic Model  |  <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-tiny-faroese-8k-steps-100h" target="”_blank”" rel="noopener">Tiny 8k</a> <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-base-faroese-8k-steps-100h" target="”_blank”" rel="noopener">Base 8k</a> <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-small-faroese-5k-steps-100h" target="”_blank”" rel="noopener">Small 5k</a> <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-largev2-faroese-8k-steps-100h" target="”_blank”" rel="noopener">Large v2 8k</a> <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-large-faroese-8k-steps-100h" target="”_blank”" rel="noopener">Large 8k</a> <a href="https://huggingface.co/carlosdanielhernandezmena/whisper-large-faroese-8k-steps-100h-ct2" target="”_blank”" rel="noopener">Large 8k ct2</a></p>  |
-| Faroese Parallel Bible | parallel  | https://huggingface.co/datasets/vesteinn/faroese-parallel-bible  |
+| Faroese Parallel Bible | parallel  | https://huggingface.co/datasets/vesteinn/faroese-parallel-bible |
 | GPT-4 for Sentiment Analysis for Faroese | Sentiment Analysis | https://huggingface.co/datasets/hafsteinn/faroese_sentiment_analysis |
-| New Testament: Audio and Text | ASR, TTS | https://mtd.setur.fo/resource/new-testament-audio-and-text/ |
+| Faroese New Testament: Audio and Text | ASR, TTS | https://mtd.setur.fo/resource/new-testament-audio-and-text/ |
 | GPT-SW3 LoRA Faroese | Text Generation, Translation | https://huggingface.co/barbaroo/gptsw3_lora_fo_40b |
 | Synthetic Faroese STS Dataset | Sentiment Analysis | https://huggingface.co/datasets/barbaroo/STS |
 | NLLB Translation FO-EN | Machine Translation | https://huggingface.co/barbaroo/nllb_200_600M_en_fo |
 | FO-EN Translated Sentences (synthetic dataset) | Machine Translation | https://huggingface.co/datasets/barbaroo/fo_en_synthetic |
+| Kaldi ASR for Faroese | ASR | https://github.com/CarlosDanielMena/Kaldi_Recipe_for_Faroese |
+| Faroese Pronunciation Dictionaries | Grapheme to Phoneme | https://mtd.setur.fo/wp-content/uploads/2024/03/Pron_dicts_for_G2P.zip |
+| Faroese G2P Models | Grapheme to Phoneme | https://repository.clarin.is/repository/xmlui/handle/20.500.12537/303 |
+| Ravnur BLARK Toolbox | LangTech work | https://mtd.setur.fo/resource/ravnur-blark-toolbox/ |
+| Ravnur ASR model for Kaldi | ASR | https://mtd.setur.fo/resource/ravnur-asr-model-for-kaldi/ |
