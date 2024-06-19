@@ -36,3 +36,6 @@
 | GPT-4 for Sentiment Analysis for Faroese | Sentiment Analysis | https://huggingface.co/datasets/hafsteinn/faroese_sentiment_analysis |
 | New Testament: Audio and Text | ASR, TTS | https://mtd.setur.fo/resource/new-testament-audio-and-text/ |
 | GPT-SW3 LoRA Faroese | Text Generation, Translation | https://huggingface.co/barbaroo/gptsw3_lora_fo_40b |
+| Synthetic Faroese STS Dataset | Sentiment Analysis | https://huggingface.co/datasets/barbaroo/STS |
+| NLLB Translation FO-EN | Machine Translation | https://huggingface.co/barbaroo/nllb_200_600M_en_fo |
+| FO-EN Translated Sentences (synthetic dataset) | Machine Translation | https://huggingface.co/datasets/barbaroo/fo_en_synthetic |
