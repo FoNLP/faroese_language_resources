@@ -1,10 +1,10 @@
 # Faroese Language Resources
 
-| Dataset name                   | Data type/ task |  Source/Link                                                                                                                  |
-| ------------------------------ | --------------- |  ---------------------------------------------------------------------------------------------------------------------------- |
+| Dataset name                   | Data type/ task |  Source/Link  |
+| ------------------------------ | --------------- | ------------------------------------------ |
 | BLARK corpus                   | plain text      |  https://huggingface.co/datasets/barbaroo/Faroese_BLARK_small |
-| The Leipzig Corpora Collection | plain text      |  https://wortschatz.uni-leipzig.de/en/download/Faroese                |
-| Sosialurin                     | POS             | https://huggingface.co/datasets/vesteinn/sosialurin-faroese-pos                                                              |
+| The Leipzig Corpora Collection | plain text      |  https://wortschatz.uni-leipzig.de/en/download/Faroese   |
+| Sosialurin                     | POS             | https://huggingface.co/datasets/vesteinn/sosialurin-faroese-pos |
 | FoNE                           | NER             | https://huggingface.co/datasets/vesteinn/sosialurin-faroese-ner                                                              |
 | Fo-STS                         | STS             | https://huggingface.co/datasets/vesteinn/faroese-sts                                                                         |
 | FC3                            | plain text      | https://huggingface.co/datasets/vesteinn/FC3                                                                                 |
@@ -44,3 +44,8 @@
 | Faroese G2P Models | Grapheme to Phoneme | https://repository.clarin.is/repository/xmlui/handle/20.500.12537/303 |
 | Ravnur BLARK Toolbox | LangTech work | https://mtd.setur.fo/resource/ravnur-blark-toolbox/ |
 | Ravnur ASR model for Kaldi | ASR | https://mtd.setur.fo/resource/ravnur-asr-model-for-kaldi/ |
+| FaroeseOCR | OCR | https://github.com/AnnikaSimonsen/FaroeseOCR |
+| FO-Tokenizer | Tagging, Parsing | https://github.com/AnnikaSimonsen/FO-Tokenizer |
+| foroyskt | Parsing | https://github.com/AnnikaSimonsen/foroyskt |
+| FAR-Berkeley-Parser | Parsing | https://github.com/AnnikaSimonsen/FAR-Berkeley-Parser |
+| Stanza | Tagging | https://stanfordnlp.github.io/stanza/ |
