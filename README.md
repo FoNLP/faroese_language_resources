@@ -16,6 +16,8 @@
 | itu_faroese_danish |    parallel             | https://huggingface.co/datasets/strombergnlp/itu_faroese_danish  |
 | Tatoeba             | parallel       | https://tatoeba.org/en/sentences/show_all_in/fao/none |
 | FLORES-200  |   parallel       | https://github.com/facebookresearch/flores/tree/main/flores200 |
+| BRAGD | POS | https://github.com/Maltoknidepilin/BRAGD |
+| spaCy-BRAGD | POS | https://github.com/HenrikHoffmannDK/spacy-bragd |
 | Universal Dependency parsing    | treebank, POS | https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5150 |
 | Wikipedia    | plain text       | https://huggingface.co/datasets/wikipedia |
 | CCAligned    | parallel         | https://www.statmt.org/cc-aligned/ |
